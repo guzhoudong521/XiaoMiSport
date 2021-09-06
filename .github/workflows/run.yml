@@ -55,5 +55,5 @@ jobs:
           git config --global user.email "591604591@qq.com"
           git add .
           git commit -m '重置下次刷新时间'
-          git remote set-url origin http://guzhoudong521:${git_pwd}@github.com/guzhoudong521/XiaoMiSport.git
+          git remote set-url origin https://github.com/guzhoudong521/XiaoMiSport.git
           git push
